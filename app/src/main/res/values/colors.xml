@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#FB6F92</color>
+    <color name="pink2">#FFB3C6</color>
+    <color name="pink3">#FFE5EC</color>
+    <color name="pink_text">#5C3740</color>
+
+    <color name="black_text">#242424</color>
+    <color name="black_text2">#353535</color>
+
+    <color name="green">#DDFFCD</color>
+    <color name="green_text">#646464</color>
+
+    <color name="gray">#F2F2F2</color>
+
+    <color name="colorWithinADay">#D3E7F6</color>
+    <color name="colorNotWithinADay">#FFFFFF</color>
+
+    <color name="overdueBackground">#E8C8C8</color>
+    <color name="overdueText">#AE4343</color>
+
+</resources>
